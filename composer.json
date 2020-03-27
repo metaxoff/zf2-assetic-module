@@ -25,7 +25,7 @@
   ],
   "require": {
     "php": "^5.6 || ^7.0",
-    "kriswallsmith/assetic": "^1.2",
+    "metaxoff/assetic": "*",
     "widmogrod/php-functional": "^1.0",
     "zendframework/zend-mvc": "^3.0",
     "symfony/console": "5.*"
